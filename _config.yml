@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-Sheets
+title: MuscovitesSeattleites+Satellites
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Fantasy. Football.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is an experimental template that directly parses CSVs to create small digital collection exhibits on GitHub Pages designed for teaching digital library skills. Work in Progress!"
+description: ""
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: dcnb
 
 ##########
 # COLLECTION SETTINGS
@@ -43,11 +43,10 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vSMccqi7Fp_6wGnle7
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
-
+organization-name: "MuscovitesSeattleites+Satellites"
+organization-link: https://fantasy.espn.com/football/league?leagueId=667868
+organization-logo-banner: https://michaelmbenedict.files.wordpress.com/2014/11/writing.jpg
+organization-logo-nav: https://michaelmbenedict.files.wordpress.com/2014/11/writing.jpg
 
 ##########
 # GOOGLE SERVICES [optional!]
@@ -63,7 +62,7 @@ organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
