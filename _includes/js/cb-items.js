@@ -63,3 +63,7 @@ if (sessionStorage.getItem("cb_metadata_set")) {
   }
 }
 {%- endif -%}
+function reset_cb_items(){
+  sessionStorage.removeItem('cb_items_store');
+  location.reload(); 
+};
